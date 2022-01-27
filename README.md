@@ -32,10 +32,13 @@ The main advantages of USDR as compared to other crypto-collateralized stablecoi
 
 **Stability Mechanism**
 
-MoneyTree has a simple strategy for maintaining value. It creates **USDR** to an extent that the supply is equal to the demand in the market. In other words, new **USDR** are created when demand is increased and existing **USDR** are eliminated when demand is decreased.
-Whenever **USDR** price is higher than the index it is pegged to, it signals that the supply does not suffice the demand at the moment. Consequently, the system has to increase the supply by giving out new loans. Similiarly, when price falls below the index, it is a signal for lower demands, and the system should curb the loaning process.
-Unlike other Cryptoassets, newly created tokens are not awarded. They are rather issued as loans. The tokens are created by paying loans and eliminated by settling them.
-Issuing new tokens by paying loans instead of awarding them enables MoneyTree to maintain the value of **USDR** by eliminating some of the existing tokens when the demand for them decreases in the market. Elimination is done through settling some of the loans.
+-MoneyTree has a simple strategy for maintaining value. It creates **USDR** to an extent that the supply is equal to the demand in the market. In other words, new **USDR** are created when demand is increased and existing **USDR** are eliminated when demand is decreased.
+
+-Whenever **USDR** price is higher than the index it is pegged to, it signals that the supply does not suffice the demand at the moment. Consequently, the system has to increase the supply by giving out new loans. Similiarly, when price falls below the index, it is a signal for lower demands, and the system should curb the loaning process.
+
+-Unlike other Cryptoassets, newly created tokens are not awarded. They are rather issued as loans. The tokens are created by paying loans and eliminated by settling them.
+
+-Issuing new tokens by paying loans instead of awarding them enables MoneyTree to maintain the value of **USDR** by eliminating some of the existing tokens when the demand for them decreases in the market. Elimination is done through settling some of the loans.
 
 
 
