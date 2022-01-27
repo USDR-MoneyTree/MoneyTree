@@ -5,7 +5,9 @@ MoneyTree is a decentralized bank on Avalanche. It gives out zero-interest loans
 **USDR Benefits People**
 
 USDR makes it possible for people to store value in decentralized money that:
+
 •	Unlike current fiat money has zero inflation
+
 •	Unlike current crypto-assets has no price fall risk in bear market
 
 **USDR Benefits AVAX  Holders**
