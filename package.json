@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "name": "react",
+  "main": "src/index.js",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "devDependencies": {
+    "typescript": "4.1.3",
+    "@babel/runtime": "7.13.8"
+  },
+  "description": "Rendition React starter project",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@walletconnect/web3-provider": "^1.6.6",
+    "moralis": "^0.0.90",
+    "react-moralis": "^0.2.6",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1",
+    "webfontloader": "1.6.28",
+    "styled-components": "5.3.3",
+    "react-dom": "17.0.2",
+    "react": "17.0.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
